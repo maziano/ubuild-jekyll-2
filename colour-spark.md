@@ -13,6 +13,18 @@ page_sections:
     link_text: About Us
   - link: "#"
     link_text: Contact Us
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/05/24/webbackgrounf.jpg"
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 published: false
 
 ---
